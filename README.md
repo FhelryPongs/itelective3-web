@@ -6,4 +6,9 @@
 - Enumerate the list of the possible sub-system (You may check the use case diagram provided in the FILE SENT THROUGH THE CLASS GROUP CHAT)
 
 -----------------------------------------------------------------------------------------------------------
+<<<<<<< HEAD
 Hello, this line was added by Fhelry!
+=======
+>>>>>>> parent of 85de6ed (Update README.md)
+
+Third update!
