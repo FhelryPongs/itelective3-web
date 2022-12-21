@@ -4,3 +4,5 @@
 - Name of the System
 - One to two paragraph that describes the purpose of the system and some details of the system 
 - Enumerate the list of the possible sub-system (You may check the use case diagram provided in the FILE SENT THROUGH THE CLASS GROUP CHAT)
+
+-----------------------------------------------------------------------------------------------------------
